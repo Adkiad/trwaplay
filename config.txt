@@ -1,6 +1,6 @@
-token=NTE3NjkwMjYzNTc0MTUxMTY5.DuIy6g.5Yr7P7Svlf2Upbob2yE38mG4KUs 
-owner=489379054584201247 
+token=NTI2MDk0MDg1NzMyMTcxODA1.DwALuw.yOED1UdM3-I8xb0M-qd796BE7sQ
+owner=517844009301835776
 prefix= 3
-game= 3play
+game=  Smile to have fuck you lifeヅ❤
 stayinchannel=true
 songinstatus=true 
